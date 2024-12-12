@@ -1,6 +1,6 @@
 name: patrol_basics_tutorial
-description: 'A new Flutter project.'
-publish_to: 'none'
+description: "A new Flutter project."
+publish_to: "none"
 version: 0.1.0
 
 environment:
@@ -19,7 +19,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^4.0.0
-  patrol: ^3.13.0
+  patrol: ^3.13.1
 
 flutter:
   uses-material-design: true
